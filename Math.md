@@ -98,7 +98,7 @@ $\begin{bmatrix} a&b&c \\ d&e&f \end{bmatrix}$
 
 `![当图片加载不出来时会显示这里的文字](图片的route)`
 
-![这是一张图片](D:\大二上\markdown笔记\1.png)
+![这是一张图片](1.png)
 
 ## 5.引用
 
@@ -160,4 +160,5 @@ printf("hello,world")
 
 - [x] 已完成    `- [x] 已完成`
 - [ ] 代办      `- [] 待办任务`
+
 
