@@ -48,6 +48,41 @@ $\alpha,\beta,\pi,\theta,\delta$
 
 $\begin{bmatrix} a&b&c \\ d&e&f \end{bmatrix}$
 
+## 9.方程组
+
+``````markdown
+\left\{
+\begin{aligned}
+ a_1x + b_1y = c_1 \\
+ a_2x + b_2y = c_2 \\
+ a_3x + b_3y = c_3
+\end{aligned}
+\right.
+``````
+
+
+$$
+\left\{
+\begin{aligned}
+  a_1x + b_1y &= c_1 \\
+  a_2x + b_2y &= c_2 \\
+  a_3x + b_3y &= c_3 
+\end{aligned}
+\right.
+$$
+
+## 10.上划线
+
+`$\overline{}$`：适用于多个变量或者字母组合
+
+$\overline{a}\,\overline{abc}$
+
+`$\bar{}$`:适用于单个字母,会更短一些
+
+$\bar{e}$
+
+# 
+
 
 
 # 二、基本语法
@@ -163,7 +198,15 @@ printf("hello,world")
 ## 8.任务列表
 
 - [x] 已完成    `- [x] 已完成`
-- [ ] 代办      `- [] 待办任务`
+- [ ] 代办      `- [] 待办任务
+
+## 9.分隔线
+
+`---` 灰色的分隔线，用来分隔不同的内容
+
+---
+
+
 
 
 
