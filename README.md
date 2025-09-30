@@ -51,24 +51,20 @@ $\begin{bmatrix} a&b&c \\ d&e&f \end{bmatrix}$
 ## 9.方程组
 
 ``````markdown
-\left\{
-\begin{aligned}
- a_1x + b_1y = c_1 \\
- a_2x + b_2y = c_2 \\
- a_3x + b_3y = c_3
-\end{aligned}
-\right.
+\begin{cases}
+  a_1x + b_1y = c_1 \\
+  a_2x + b_2y = c_2 \\
+  a_3x + b_3y = c_3
+\end{cases}
 ``````
 
 
 $$
-\left\{
-\begin{aligned}
-  a_1x + b_1y &= c_1 \\
-  a_2x + b_2y &= c_2 \\
-  a_3x + b_3y &= c_3 
-\end{aligned}
-\right.
+\begin{cases}
+  a_1x + b_1y = c_1 \\
+  a_2x + b_2y = c_2 \\
+  a_3x + b_3y = c_3
+\end{cases}
 $$
 
 ## 10.上划线
